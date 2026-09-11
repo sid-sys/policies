@@ -1,8 +1,8 @@
 # Personal Manifestation: Maya — policies
 
 Privacy policy, terms of service and account deletion instructions for
-**Personal Manifestation: Maya** (`com.astraapp.astra`), published by Core
-Interactive and served by GitHub Pages so the Play Console and the app can link
+**Personal Manifestation: Maya** (`com.astraapp.astra`), published by
+Tetradevelopers and served by GitHub Pages so the Play Console and the app can link
 to stable URLs.
 
 - Privacy policy — https://sid-sys.github.io/policies/privacy.html
