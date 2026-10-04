@@ -1,7 +1,7 @@
-# Personal Manifestation: Maya — policies
+# Personal Manifestation: Mayow — policies
 
 Privacy policy, terms of service and account deletion instructions for
-**Personal Manifestation: Maya** (`com.astraapp.astra`), published by
+**Personal Manifestation: Mayow** (`com.astraapp.astra`), published by
 Tetradevelopers and served by GitHub Pages so the Play Console and the app can link
 to stable URLs.
 
@@ -17,7 +17,7 @@ a policy link that 404s is a listing rejection at the next review.
 ## Every page must name the app
 
 Google rejected the listing once over this. The app was renamed from Astra to
-Personal Manifestation: Maya, these pages were not, and the account deletion
+Personal Manifestation: Mayow, these pages were not, and the account deletion
 link was refused for "missing reference to the app or to the entity named in
 the app's Google Play listing" — the page loaded fine, it just named the wrong
 app.
